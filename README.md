@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 
-- 🔭 I’m currently completing my PhD in molecular genetics and bioinformatics 
+- 🔭 PhD in bioinformatics and statistical genetics
 - 👯 I’m looking forward to collaborate with you!
 - 📫 How to reach me: delperom@hu-berlin.de / manueldlpro94@gmail.com 
 
